@@ -1,0 +1,147 @@
+#logo
+{
+	
+	
+
+}
+
+	#logo img
+	{
+		position: relative;
+	}
+	#blue
+    {
+      position: absolute;
+      top: 0;
+      left: 0;
+      
+    }
+    #vk-256x256
+    {
+      position: absolute;
+      
+    }
+.login {
+    font-weight: 500;
+    padding-left: 10px;
+    width: 240px;
+    height: 30px;
+    margin-bottom: 15px;
+    border-radius: 4px;
+    color: #d3d9de;
+    border: 1px solid grey;
+}
+
+.password {
+    font-weight: 500;
+    padding-left: 10px;
+    width: 240px;
+    height: 30px;
+    border-radius: 4px;
+    color: #d3d9de;
+    border: 1px solid grey;
+}
+#search{
+    background-color: #224b7a;
+    border: none;
+    border-radius: 15px;
+    width: 190px;
+    height:22px;
+}
+.btn1{
+    position: absolute;
+    background-color: #5181b8;
+    color: #fff;
+    top: 100px;
+    left: 0px;
+    width:35%;
+    height: 35%;
+    border:none;
+    border-radius: 8px;
+}
+.forgot{
+    position: absolute;
+    top: 103px;
+    left: 100px;
+    text-decoration: none;
+}
+.h4{
+  position: absolute;
+  top: 240px;
+  right: 350px;
+  font-size: 20px;
+
+}
+.h5{
+  position: absolute;
+  top: 280px;
+  right: 375px;
+  font-size: 12px;
+
+}
+.name {
+    
+    margin-bottom: 15px;
+    width: 240px;
+    height: 25px;
+    border-radius: 4px;
+    padding-left: 10px;
+    border: 1px solid grey;
+}
+
+.surname {
+
+    width: 240px;
+    height: 25px;
+    border-radius: 4px;
+    padding-left: 10px;
+    border: 1px solid grey;
+}
+.day {
+    padding: 6px 10px;
+    padding-left: 6px;
+    border-radius: 4px;
+    color: rgb(124, 127, 130);
+}
+
+.month {
+    padding: 6px 10px;
+    padding-left: 6px;
+    border-radius: 4px;
+    color: rgb(124, 127, 130);
+}
+
+.year {
+    padding: 6px 10px;
+    padding-left: 6px;
+    border-radius: 4px;
+    color: rgb(124, 127, 130);
+}
+.btn2{
+    margin-top: 10px;
+    border-radius: 7px;
+    background-color: #4bb34b;
+    margin-bottom: 20px;
+    width: 250px;
+    height: 35px;
+    text-align: center;
+    color: #fff;
+    border-color: #fff;
+}
+.btn3{
+    background-color: #2474d6;
+    border-radius: 7px;
+    width: 250px;
+    height: 35px;
+    text-align: center;
+    color: #fff;
+    border-color: #fff; 
+
+}
+.div1{
+ 
+}
+.div2{
+    
+}
+
